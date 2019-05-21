@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "settings": {
+    "import/resolver": {
+      "alias": [
+        ["Utils", "./src/Utils"],
+        ["Components", "./src/Components"]
+      ]
+    }
+  }
+}
